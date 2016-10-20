@@ -1,4 +1,4 @@
-{% set name = "topoflow-evap-read-file-csdms" %}
+{% set name = "csdms-topoflow-evap-read-file" %}
 {% set version = "3.4" %}
 
 package:
